@@ -1,0 +1,77 @@
+[
+    {
+        "question": "Di mana ada lokasi Rumah Sakit Siloam?",
+        "answer": "Ada 40 Rumah Sakit modern yang terdiri dari 13 Rumah Sakit di Jabodetabek dan 27 rumah sakit yang tersebar di Jawa, Sumatera, Kalimantan, Sulawesi, serta Bali dan Nusa Tenggara.",
+        "category": "FAQ Website"
+    },
+    {
+        "question": "Apa jenis kamar rawat inap yang tersedia?",
+        "answer": "Siloam Hospitals menawarkan banyak pilihan jenis kamar rawat inap. Silahkan pilih rumah sakit yang akan Anda kunjungi untuk mengetahui jenis kamar rawat inap yang ditawarkan di setiap unit.",
+        "category": "FAQ Website"
+    },
+    {
+        "question": "Apa standar keamanan suplai darah yang diambil di rumah sakit?",
+        "answer": "Untuk memastikan keamanan dan kualitas suplai darah, kami secara eksklusif menerima darah dari Palang Merah Indonesia.",
+        "category": "FAQ Website"
+    },
+    {
+        "question": "Jam buka MCU / Medical Check Up?",
+        "answer": "Jam operasional MCU / Medical Check Up adalah hari Senin-Sabtu pukul 07.00 - 14.00 waktu setempat (Kecuali MCU / Medical Check Up di Siloam ASRI tidak beroperasional di hari Sabtu).",
+        "category": "Medical Check Up"
+    },
+    {
+        "question": "Apakah MCU / Medical Check Up perlu melakukan puasa?",
+        "answer": "Tindakan puasa dilakukan tergantung pada item MCU / Medical Check Up yang dipilih. (Tidak semua paket MCU / Medical Check Up memerlukan puasa).",
+        "category": "Medical Check Up"
+    },
+    {
+        "question": "Berapa lama waktu yang dibutuhkan untuk MCU / Medical Check Up tes?",
+        "answer": "Lama waktu yang dibutuhkan untuk menjalankan MCU / Medical Check Up sekitar 2-6 jam tergantung dari jenis paket pemeriksaan yang dijalankan.",
+        "category": "Medical Check Up"
+    },
+    {
+        "question": "Apa itu Siloam at Home? Apakah Siloam memberikan layanan kesehatan di rumah atau Homecare?",
+        "answer": "Siloam at Home adalah salah satu layanan Homecare terintegrasi dari rumah sakit Siloam yang memberikan perawatan di tempat tinggal pasien.",
+        "category": "Siloam at Home"
+    },
+    {
+        "question": "Layanan Siloam at Home apa saja yang diberikan oleh Siloam?",
+        "answer": "Layanan Siloam at Home antara lain kunjungan perawat, kunjungan dokter umum, vaksin, perawatan luka, pemeriksaan laboratorium, dan lain-lain.",
+        "category": "Siloam at Home"
+    },
+    {
+        "question": "Bagaimana cara melakukan pemesanan layanan Siloam at Home?",
+        "answer": "Untuk mengetahui informasi lebih lanjut atau melakukan pemesanan layanan Siloam at Home, Anda dapat mengunjungi https://www.siloamhospitals.com/siloam-at-home atau langsung menghubungi nomor WhatsApp reservasi Siloam at Home di +628111950181.",
+        "category": "Siloam at Home"
+    },
+    {
+        "question": "Halo saya mau cek obat yang saya beli dari Siloam, bisakah dari aplikasi MySiloam?",
+        "answer": "Bisa jika Anda melakukan konsultasi rawat jalan di RS Siloam. Mohon untuk mengaktifkan menu 'Rekam Medis' terlebih dahulu dengan bertemu dan menghubungi staf kami di RS Siloam terdekat.",
+        "category": "MySiloam Apps"
+    },
+    {
+        "question": "Bagaimana cara pesan dokter dari aplikasi MySiloam?",
+        "answer": "Masuk ke menu 'Appointment', cari Dokter berdasarkan nama atau spesialisasi & lokasi, lalu pilih tanggal & jam yang sesuai dengan jadwal Anda.",
+        "category": "MySiloam Apps"
+    },
+    {
+        "question": "Jika saya udah booking dari aplikasi MySiloam, apakah saya pasti terdaftar slot yang sesuai dengan jadwal dokter?",
+        "answer": "Ya, Anda pasti terdaftar di jadwal dokter pada hari dan tanggal yang Anda pilih. Konfirmasi janji temu juga akan Anda dapatkan melalui email dan SMS notifikasi.",
+        "category": "MySiloam Apps"
+    },
+    {
+        "question": "Asuransi apa saja yang bekerja sama dengan Siloam?",
+        "answer": "Siloam Hospitals Group memastikan untuk terus memfasilitasi jaringan kerjasama termasuk dengan rekanan asuransi dalam negeri atau pun luar negeri. Untuk lebih detail, pastikan Anda melakukan konfirmasi kepada pihak asuransi mengenai jaringan dan ketentuan yang berlaku pada polis penjaminan Anda. Anda juga dapat menghubungi Rumah Sakit Siloam yang Anda tuju untuk menanyakan detail terkait hal ini.",
+        "category": "Corporate/Insurance"
+    },
+    {
+        "question": "Apa yang harus dilakukan jika asuransi tidak bekerja sama dengan rumah sakit?",
+        "answer": "Jika asuransi tidak bekerja sama, maka sistem pembayaran akan dilakukan dengan sistem reimburse. Kami pastikan dokumen pendukung yang dibutuhkan untuk reimburse diberikan kepada pasien.",
+        "category": "Corporate/Insurance"
+    },
+    {
+        "question": "Bagaimana alur dalam membayar dengan asuransi?",
+        "answer": "Pastikan Anda selalu membawa kartu atau identifikasi asuransi yang masih berlaku. Siloam Hospitals Group menyediakan konter-konter khusus untuk pelayanan pasien dengan penjaminan asuransi. Siloam Hospitals Group akan melakukan konfirmasi kepada pihak penjamin mengenai ketentuan detail pada polis. Setelah semua konfirmasi internal selesai, kami akan memberikan informasi mengenai penjaminan yang diberikan oleh asuransi.",
+        "category": "Corporate/Insurance"
+    }
+]

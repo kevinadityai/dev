@@ -1,0 +1,6 @@
+dotenv
+langchain_openai
+langchain_qdrant
+pandas
+qdrant_client
+requests
