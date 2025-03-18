@@ -1,5 +1,6 @@
 dotenv
 fastembed
+huggingface_hub[cli]
 langchain_community
 langchain_openai
 langchain_qdrant
