@@ -7,3 +7,4 @@ langchain_qdrant
 pandas
 qdrant_client
 requests
+sentence_transformers
