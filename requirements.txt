@@ -1,5 +1,6 @@
 dotenv
 fastembed
+gradio
 huggingface_hub[cli]
 langchain_community
 langchain_openai
