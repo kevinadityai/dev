@@ -1,4 +1,5 @@
 dotenv
+einops
 fastembed
 gradio
 huggingface_hub[cli]
