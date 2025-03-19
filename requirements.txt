@@ -1,12 +1,7 @@
-dotenv
-einops
-fastembed
-gradio
-huggingface_hub[cli]
-langchain_community
-langchain_openai
-langchain_qdrant
-pandas
-qdrant_client
-requests
-sentence_transformers
+# gradio
+# huggingface_hub[cli]
+# langchain_qdrant
+# pandas
+# qdrant_client
+# requests
+# sentence_transformers
