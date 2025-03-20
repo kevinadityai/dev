@@ -1,8 +1,8 @@
-gradio
-huggingface_hub[cli]
-langchain_qdrant
-pandas
-qdrant_client
-ranx
-requests
-sentence_transformers
+# gradio
+# huggingface_hub[cli]
+# langchain_qdrant
+# pandas
+# qdrant_client
+# ranx
+# requests
+# sentence_transformers
